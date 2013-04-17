@@ -4,7 +4,8 @@ Cornice Couch Demo
 A demo web service based on Cornice/Pyramid.
 Goes a little beyond other examples I could find by providing:
 
-* persistence (using CouchDB, but those details are kept out of the views)
+* persistence (using CouchDB, simply because I've been wanting to play with Couch;
+  the specific datastore isn't really the point of this demo) 
 * Basic Authentication
 * full CRUD example
 * TODO: a front-end using Angular
